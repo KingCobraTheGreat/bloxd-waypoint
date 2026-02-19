@@ -47,7 +47,7 @@ playerCommand = (pId, command) => {
 		}
 		return true
 	} else {
-		api.sendMessage(pId, "Use /waypoint [set/delete]\nWaypoint mod by KingCobraTheGreat")
+		api.sendMessage(pId, "Use /waypoint [set/delete] [name] (colour)\nWaypoint mod by KingCobraTheGreat")
 		return true
 	}
 }
