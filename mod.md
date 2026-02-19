@@ -1,6 +1,7 @@
 Copy the code below:
 
-```// waypoint mod by KingCobraTheGreat
+```
+// waypoint mod by KingCobraTheGreat
 waypoint = {}
 
 onPlayerJoin = (pId) => {
