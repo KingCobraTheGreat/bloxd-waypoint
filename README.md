@@ -6,3 +6,5 @@ Waypoint mod for bloxd.io - follow the steps to install
 3. paste in this code
 
 This will not work if there is already world code in your world.
+
+You can also use [https://bloxd.io/play/classic_survival/waypoint.mod](url) to try it out
